@@ -17,3 +17,4 @@ const showSuccessMessage = () => {
 
 console.log('1 Presionar el boton comprar');
 validatingPayment(showSuccessMessage);
+
