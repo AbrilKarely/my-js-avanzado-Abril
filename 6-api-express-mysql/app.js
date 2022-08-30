@@ -2,7 +2,7 @@ import express from "express";
 import morgan from "morgan";
 
 /* importing the ProductRoutes from the product.routes file*/
-import productRoutes from "./routes/product.routes";
+import productRoutes from "./src/routes/product.routes";
 
 const app = express();
 
